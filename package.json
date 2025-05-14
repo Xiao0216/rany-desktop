@@ -1,0 +1,15 @@
+{
+  "name": "rany-desktop",
+  "version": "1.0.0",
+  "description": "然医门户-桌面版",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "JinShen",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^36.2.0"
+  }
+}
